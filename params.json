@@ -1,6 +1,6 @@
 {
   "name": "demos",
   "tagline": "My workshop Demos",
-  "body": "My Workshop Demos",
+  "body": "###[React Typeahead dropdown](/react-custom-typeahead-dropdown)\r\n[Githb](https://github.com/jstify/react-custom-typeahead-dropdown)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
